@@ -17,13 +17,6 @@ namespace Features.Tests
 
         public Cliente GerarClienteValido()
         {
-            var genero = new Faker().PickRandom<Name.Gender>();
-
-            // Exemplos
-            //var email = new Faker().Internet.Email("fernando", "junior");
-            //var clienteFaker = new Faker<Cliente>();
-            //clienteFaker.RuleFor(c => c.Nome, (f,c) => f.Name.FirstName());
-
             var cliente = new Cliente(
                 Guid.NewGuid(),
                 "Fernando",

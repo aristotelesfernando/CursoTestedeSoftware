@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Features.Tests/1.0.0": {
         "dependencies": {
+          "Bogus": "33.0.2",
           "Features": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "coverlet.collector": "1.2.0",
@@ -16,6 +17,14 @@
         },
         "runtime": {
           "Features.Tests.dll": {}
+        }
+      },
+      "Bogus/33.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Bogus.dll": {
+            "assemblyVersion": "33.0.2.0",
+            "fileVersion": "33.0.2.0"
+          }
         }
       },
       "coverlet.collector/1.2.0": {},
@@ -725,6 +734,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Bogus/33.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-92CcSgl7KLEw7lerMytjY504IPnhmYqDkCgIPm5GVfiZPslRWUcgWvtoNYhKbSU4m/Ms7giKP8OxPAFTFBgC3w==",
+      "path": "bogus/33.0.2",
+      "hashPath": "bogus.33.0.2.nupkg.sha512"
     },
     "coverlet.collector/1.2.0": {
       "type": "package",
