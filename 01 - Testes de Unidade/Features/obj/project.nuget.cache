@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKQoiu3tkxvUob42QgNFsUNTxIrVxWuitOt0l3cqvbIQ5fQ/Yq2DrMuc84NN4PLnmwTFH8Q+GmN1vUwZOtp00w==",
+  "success": true,
+  "projectFilePath": "E:\\src\\desenvolvedor.io-cursos\\Teste de Software\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arist\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
