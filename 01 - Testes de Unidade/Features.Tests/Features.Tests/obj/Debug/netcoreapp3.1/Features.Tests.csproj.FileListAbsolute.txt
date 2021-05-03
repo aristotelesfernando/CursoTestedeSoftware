@@ -99,3 +99,5 @@ E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de 
 E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Features.Tests\Features.Tests\obj\Debug\netcoreapp3.1\Features.Tests.pdb
 E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Features.Tests\Features.Tests\obj\Debug\netcoreapp3.1\Features.Tests.genruntimeconfig.cache
 E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Features.Tests\Features.Tests\bin\Debug\netcoreapp3.1\Bogus.dll
+E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Features.Tests\Features.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Features.Tests\Features.Tests\bin\Debug\netcoreapp3.1\Moq.dll
