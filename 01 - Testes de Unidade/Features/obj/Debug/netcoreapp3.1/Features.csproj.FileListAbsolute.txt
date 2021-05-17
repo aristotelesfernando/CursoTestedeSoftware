@@ -6,4 +6,13 @@ E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de 
 E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
 E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.dll
 E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.pdb
-E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache
+e:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.dll
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Features\bin\Debug\netcoreapp3.1\Features.pdb
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.dll
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.pdb
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache

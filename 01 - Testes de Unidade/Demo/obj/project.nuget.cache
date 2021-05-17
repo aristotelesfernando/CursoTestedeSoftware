@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "drlbZQvrLrnXoBCe7Q+NFqurKnMsikBNjbzHEk+Bki2GcqGEzNOucXYoljhBibndPC+fmfgN7qBBEQJkxG6JQQ==",
+  "dgSpecHash": "IPTSnH/Ammbf1O6A17LxHSGW32u//N9At0P6VpxKAQ5MzRtnpTSJt7ulHimeWijp9EOr7X9LE1cNLWVkBLWYQA==",
   "success": true,
-  "projectFilePath": "E:\\src\\desenvolvedor.io-cursos\\Teste de Software\\TesteDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
+  "projectFilePath": "E:\\src\\desenvolvedor.io-cursos\\TesteDeSoftware\\01 - Testes de Unidade\\Demo\\Demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

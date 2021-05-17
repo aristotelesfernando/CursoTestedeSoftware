@@ -7,3 +7,12 @@ E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de 
 E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.dll
 E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
 E:\src\desenvolvedor.io-cursos\Teste de Software\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+e:\src\desenvolvedor.io-cursos\TesteDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache

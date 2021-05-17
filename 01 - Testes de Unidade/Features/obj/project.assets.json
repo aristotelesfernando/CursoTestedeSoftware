@@ -169,11 +169,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\src\\desenvolvedor.io-cursos\\Teste de Software\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+      "projectUniqueName": "e:\\src\\desenvolvedor.io-cursos\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
       "projectName": "Features",
-      "projectPath": "E:\\src\\desenvolvedor.io-cursos\\Teste de Software\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
+      "projectPath": "e:\\src\\desenvolvedor.io-cursos\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\Features.csproj",
       "packagesPath": "C:\\Users\\arist\\.nuget\\packages\\",
-      "outputPath": "E:\\src\\desenvolvedor.io-cursos\\Teste de Software\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\obj\\",
+      "outputPath": "e:\\src\\desenvolvedor.io-cursos\\TesteDeSoftware\\01 - Testes de Unidade\\Features\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
